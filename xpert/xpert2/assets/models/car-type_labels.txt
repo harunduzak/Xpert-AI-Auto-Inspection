@@ -1,0 +1,10 @@
+Cab
+Convertible
+Coupe
+Hatchback
+Minivan
+Other
+SUV
+Sedan
+Van
+Wagon

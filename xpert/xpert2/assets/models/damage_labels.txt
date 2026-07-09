@@ -1,0 +1,22 @@
+Ön Cam Hasarı
+Far Hasarı
+Arka Tampon Ağır Göçük
+Arka Cam Hasarı
+Marşpiyel Göçüğü
+Yan Ayna Hasarı
+Sinyal Hasarı
+Stop Lambası Hasarı
+Kaput Göçüğü
+Kapı Göçüğü
+Kapı Çiziği
+Çamurluk Göçüğü
+Ön Tampon Göçüğü
+Ön Tampon Çiziği
+Orta Boyutlu Kaporta Göçüğü
+Boya Atması
+Sürtme İzi
+Direk Göçüğü
+Arka Çamurluk Göçüğü
+Arka Tampon Göçüğü
+Arka Tampon Çiziği
+Tavan Göçüğü
